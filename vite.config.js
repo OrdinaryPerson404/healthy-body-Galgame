@@ -8,7 +8,7 @@ export default defineConfig({
       '@': '/src'
     }
   },
-  base: './',
+  base: '/healthy-body-Galgame/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
